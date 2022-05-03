@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jcboom
 - 👀 I’m interested in critical design praxis
-- 🌱 I’m currently learning about the socialization technology 
+- 🌱 I’m currently learning about the socialization of technology 
 - 💞️ I’m looking to collaborate on theory building and critical tech design
-- 📫 How to reach me: jonnnycal.com
+- 📫 How to reach me: 
 
 <!---
 jcboom/jcboom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
